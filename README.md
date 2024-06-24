@@ -1,7 +1,7 @@
 # quicksavePDF
 monitor a directory for changes to files that you want to autosave/overwrite previous PDF versions of.
 
-(Tutorial)[https://youtu.be/EpvOLrKeqEI]
+[Tutorial](https://youtu.be/EpvOLrKeqEI)
 
 Steps:
 1. clone repo into folder you want to implement quicksaves
